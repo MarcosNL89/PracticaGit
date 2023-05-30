@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Hola {
     @GetMapping
     public String getHola(){
-        return "Hola";
+        return "chau";
     }
 
 }
